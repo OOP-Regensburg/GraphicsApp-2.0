@@ -1,4 +1,4 @@
-package de.ur.mi;
+package de.ur.mi.graphicsapp;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
